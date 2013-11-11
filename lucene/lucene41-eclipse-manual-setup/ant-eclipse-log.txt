@@ -1,0 +1,841 @@
+msjcc02kv0ajfgfj:~/githome/github/lucene-solr $ ant eclipse
+Buildfile: /Users/kai.xu/githome/github/lucene-solr/build.xml
+
+resolve:
+
+resolve:
+
+ivy-availability-check:
+
+ivy-fail:
+
+ivy-configure:
+[ivy:configure] :: Ivy 2.2.0 - 20100923230623 :: http://ant.apache.org/ivy/ ::
+[ivy:configure] :: loading settings :: file = /Users/kai.xu/githome/github/lucene-solr/lucene/ivy-settings.xml
+
+resolve:
+
+ivy-availability-check:
+
+ivy-fail:
+
+ivy-configure:
+[ivy:configure] :: loading settings :: file = /Users/kai.xu/githome/github/lucene-solr/lucene/ivy-settings.xml
+
+resolve:
+
+resolve:
+     [echo] Building analyzers-common...
+
+ivy-availability-check:
+     [echo] Building analyzers-common...
+
+ivy-fail:
+
+ivy-configure:
+[ivy:configure] :: loading settings :: file = /Users/kai.xu/githome/github/lucene-solr/lucene/ivy-settings.xml
+
+resolve:
+     [echo] Building analyzers-icu...
+
+ivy-availability-check:
+     [echo] Building analyzers-icu...
+
+ivy-fail:
+
+ivy-configure:
+[ivy:configure] :: loading settings :: file = /Users/kai.xu/githome/github/lucene-solr/lucene/ivy-settings.xml
+
+resolve:
+     [echo] Building analyzers-kuromoji...
+
+ivy-availability-check:
+     [echo] Building analyzers-kuromoji...
+
+ivy-fail:
+
+ivy-configure:
+[ivy:configure] :: loading settings :: file = /Users/kai.xu/githome/github/lucene-solr/lucene/ivy-settings.xml
+
+resolve:
+     [echo] Building analyzers-morfologik...
+
+ivy-availability-check:
+     [echo] Building analyzers-morfologik...
+
+ivy-fail:
+
+ivy-configure:
+[ivy:configure] :: loading settings :: file = /Users/kai.xu/githome/github/lucene-solr/lucene/ivy-settings.xml
+
+resolve:
+     [echo] Building analyzers-phonetic...
+
+ivy-availability-check:
+     [echo] Building analyzers-phonetic...
+
+ivy-fail:
+
+ivy-configure:
+[ivy:configure] :: loading settings :: file = /Users/kai.xu/githome/github/lucene-solr/lucene/ivy-settings.xml
+
+resolve:
+     [echo] Building analyzers-smartcn...
+
+ivy-availability-check:
+     [echo] Building analyzers-smartcn...
+
+ivy-fail:
+
+ivy-configure:
+[ivy:configure] :: loading settings :: file = /Users/kai.xu/githome/github/lucene-solr/lucene/ivy-settings.xml
+
+resolve:
+     [echo] Building analyzers-stempel...
+
+ivy-availability-check:
+     [echo] Building analyzers-stempel...
+
+ivy-fail:
+
+ivy-configure:
+[ivy:configure] :: loading settings :: file = /Users/kai.xu/githome/github/lucene-solr/lucene/ivy-settings.xml
+
+resolve:
+     [echo] Building analyzers-uima...
+
+ivy-availability-check:
+     [echo] Building analyzers-uima...
+
+ivy-fail:
+
+ivy-configure:
+[ivy:configure] :: loading settings :: file = /Users/kai.xu/githome/github/lucene-solr/lucene/ivy-settings.xml
+
+resolve:
+     [echo] Building benchmark...
+
+ivy-availability-check:
+     [echo] Building benchmark...
+
+ivy-fail:
+
+ivy-configure:
+[ivy:configure] :: loading settings :: file = /Users/kai.xu/githome/github/lucene-solr/lucene/ivy-settings.xml
+
+resolve:
+     [echo] Building codecs...
+
+ivy-availability-check:
+     [echo] Building codecs...
+
+ivy-fail:
+
+ivy-configure:
+[ivy:configure] :: loading settings :: file = /Users/kai.xu/githome/github/lucene-solr/lucene/ivy-settings.xml
+
+resolve:
+     [echo] Building demo...
+
+ivy-availability-check:
+     [echo] Building demo...
+
+ivy-fail:
+
+ivy-configure:
+[ivy:configure] :: loading settings :: file = /Users/kai.xu/githome/github/lucene-solr/lucene/ivy-settings.xml
+
+resolve:
+     [echo] Building facet...
+
+ivy-availability-check:
+     [echo] Building facet...
+
+ivy-fail:
+
+ivy-configure:
+[ivy:configure] :: loading settings :: file = /Users/kai.xu/githome/github/lucene-solr/lucene/ivy-settings.xml
+
+resolve:
+     [echo] Building grouping...
+
+ivy-availability-check:
+     [echo] Building grouping...
+
+ivy-fail:
+
+ivy-configure:
+[ivy:configure] :: loading settings :: file = /Users/kai.xu/githome/github/lucene-solr/lucene/ivy-settings.xml
+
+resolve:
+     [echo] Building highlighter...
+
+ivy-availability-check:
+     [echo] Building highlighter...
+
+ivy-fail:
+
+ivy-configure:
+[ivy:configure] :: loading settings :: file = /Users/kai.xu/githome/github/lucene-solr/lucene/ivy-settings.xml
+
+resolve:
+     [echo] Building join...
+
+ivy-availability-check:
+     [echo] Building join...
+
+ivy-fail:
+
+ivy-configure:
+[ivy:configure] :: loading settings :: file = /Users/kai.xu/githome/github/lucene-solr/lucene/ivy-settings.xml
+
+resolve:
+     [echo] Building memory...
+
+ivy-availability-check:
+     [echo] Building memory...
+
+ivy-fail:
+
+ivy-configure:
+[ivy:configure] :: loading settings :: file = /Users/kai.xu/githome/github/lucene-solr/lucene/ivy-settings.xml
+
+resolve:
+     [echo] Building misc...
+
+ivy-availability-check:
+     [echo] Building misc...
+
+ivy-fail:
+
+ivy-configure:
+[ivy:configure] :: loading settings :: file = /Users/kai.xu/githome/github/lucene-solr/lucene/ivy-settings.xml
+
+resolve:
+     [echo] Building queries...
+
+ivy-availability-check:
+     [echo] Building queries...
+
+ivy-fail:
+
+ivy-configure:
+[ivy:configure] :: loading settings :: file = /Users/kai.xu/githome/github/lucene-solr/lucene/ivy-settings.xml
+
+resolve:
+     [echo] Building queryparser...
+
+ivy-availability-check:
+     [echo] Building queryparser...
+
+ivy-fail:
+
+ivy-configure:
+[ivy:configure] :: loading settings :: file = /Users/kai.xu/githome/github/lucene-solr/lucene/ivy-settings.xml
+
+resolve:
+     [echo] Building sandbox...
+
+ivy-availability-check:
+     [echo] Building sandbox...
+
+ivy-fail:
+
+ivy-configure:
+[ivy:configure] :: loading settings :: file = /Users/kai.xu/githome/github/lucene-solr/lucene/ivy-settings.xml
+
+resolve:
+     [echo] Building spatial...
+
+ivy-availability-check:
+     [echo] Building spatial...
+
+ivy-fail:
+
+ivy-configure:
+[ivy:configure] :: loading settings :: file = /Users/kai.xu/githome/github/lucene-solr/lucene/ivy-settings.xml
+
+resolve:
+     [echo] Building suggest...
+
+ivy-availability-check:
+     [echo] Building suggest...
+
+ivy-fail:
+
+ivy-configure:
+[ivy:configure] :: loading settings :: file = /Users/kai.xu/githome/github/lucene-solr/lucene/ivy-settings.xml
+
+resolve:
+     [echo] Building solr...
+
+resolve-example:
+     [echo] Building solr-example...
+
+ivy-availability-check:
+     [echo] Building solr-example...
+
+ivy-fail:
+
+ivy-fail:
+
+ivy-configure:
+[ivy:configure] :: loading settings :: file = /Users/kai.xu/githome/github/lucene-solr/lucene/ivy-settings.xml
+
+sync-hack:
+
+resolve:
+[ivy:retrieve] downloading http://repo1.maven.org/maven2/org/eclipse/jetty/jetty-continuation/8.1.8.v20121106/jetty-continuation-8.1.8.v20121106.jar ...
+[ivy:retrieve] ................ (20kB)
+[ivy:retrieve] .. (0kB)
+[ivy:retrieve] 	[SUCCESSFUL ] org.eclipse.jetty#jetty-continuation;8.1.8.v20121106!jetty-continuation.jar (224ms)
+[ivy:retrieve] downloading http://repo1.maven.org/maven2/org/eclipse/jetty/jetty-deploy/8.1.8.v20121106/jetty-deploy-8.1.8.v20121106.jar ...
+[ivy:retrieve] ........................................... (59kB)
+[ivy:retrieve] .. (0kB)
+[ivy:retrieve] 	[SUCCESSFUL ] org.eclipse.jetty#jetty-deploy;8.1.8.v20121106!jetty-deploy.jar (337ms)
+[ivy:retrieve] downloading http://repo1.maven.org/maven2/org/eclipse/jetty/jetty-http/8.1.8.v20121106/jetty-http-8.1.8.v20121106.jar ...
+[ivy:retrieve] ................................................................ (92kB)
+[ivy:retrieve] .. (0kB)
+[ivy:retrieve] 	[SUCCESSFUL ] org.eclipse.jetty#jetty-http;8.1.8.v20121106!jetty-http.jar (703ms)
+[ivy:retrieve] downloading http://repo1.maven.org/maven2/org/eclipse/jetty/jetty-io/8.1.8.v20121106/jetty-io-8.1.8.v20121106.jar ...
+[ivy:retrieve] ......................................................................... (100kB)
+[ivy:retrieve] .. (0kB)
+[ivy:retrieve] 	[SUCCESSFUL ] org.eclipse.jetty#jetty-io;8.1.8.v20121106!jetty-io.jar (476ms)
+[ivy:retrieve] downloading http://repo1.maven.org/maven2/org/eclipse/jetty/jetty-jmx/8.1.8.v20121106/jetty-jmx-8.1.8.v20121106.jar ...
+[ivy:retrieve] ................... (24kB)
+[ivy:retrieve] .. (0kB)
+[ivy:retrieve] 	[SUCCESSFUL ] org.eclipse.jetty#jetty-jmx;8.1.8.v20121106!jetty-jmx.jar (367ms)
+[ivy:retrieve] downloading http://repo1.maven.org/maven2/org/eclipse/jetty/jetty-security/8.1.8.v20121106/jetty-security-8.1.8.v20121106.jar ...
+[ivy:retrieve] ................................................................ (87kB)
+[ivy:retrieve] .. (0kB)
+[ivy:retrieve] 	[SUCCESSFUL ] org.eclipse.jetty#jetty-security;8.1.8.v20121106!jetty-security.jar (1554ms)
+[ivy:retrieve] downloading http://repo1.maven.org/maven2/org/eclipse/jetty/jetty-server/8.1.8.v20121106/jetty-server-8.1.8.v20121106.jar ...
+[ivy:retrieve] ........................................................................................................................................................................................................................................... (331kB)
+[ivy:retrieve] .. (0kB)
+[ivy:retrieve] 	[SUCCESSFUL ] org.eclipse.jetty#jetty-server;8.1.8.v20121106!jetty-server.jar (1136ms)
+[ivy:retrieve] downloading http://repo1.maven.org/maven2/org/eclipse/jetty/jetty-servlet/8.1.8.v20121106/jetty-servlet-8.1.8.v20121106.jar ...
+[ivy:retrieve] .................................................................... (94kB)
+[ivy:retrieve] .. (0kB)
+[ivy:retrieve] 	[SUCCESSFUL ] org.eclipse.jetty#jetty-servlet;8.1.8.v20121106!jetty-servlet.jar (438ms)
+[ivy:retrieve] downloading http://repo1.maven.org/maven2/org/eclipse/jetty/jetty-util/8.1.8.v20121106/jetty-util-8.1.8.v20121106.jar ...
+[ivy:retrieve] .................................................................................................................................................................................................. (273kB)
+[ivy:retrieve] .. (0kB)
+[ivy:retrieve] 	[SUCCESSFUL ] org.eclipse.jetty#jetty-util;8.1.8.v20121106!jetty-util.jar (1060ms)
+[ivy:retrieve] downloading http://repo1.maven.org/maven2/org/eclipse/jetty/jetty-webapp/8.1.8.v20121106/jetty-webapp-8.1.8.v20121106.jar ...
+[ivy:retrieve] ................................................... (107kB)
+[ivy:retrieve] .. (0kB)
+[ivy:retrieve] 	[SUCCESSFUL ] org.eclipse.jetty#jetty-webapp;8.1.8.v20121106!jetty-webapp.jar (514ms)
+[ivy:retrieve] downloading http://repo1.maven.org/maven2/org/eclipse/jetty/jetty-xml/8.1.8.v20121106/jetty-xml-8.1.8.v20121106.jar ...
+[ivy:retrieve] ........................ (38kB)
+[ivy:retrieve] .. (0kB)
+[ivy:retrieve] 	[SUCCESSFUL ] org.eclipse.jetty#jetty-xml;8.1.8.v20121106!jetty-xml.jar (290ms)
+[ivy:retrieve] downloading http://repo1.maven.org/maven2/org/eclipse/jetty/jetty-start/8.1.8.v20121106/jetty-start-8.1.8.v20121106.jar ...
+[ivy:retrieve] ............................ (47kB)
+[ivy:retrieve] .. (0kB)
+[ivy:retrieve] 	[SUCCESSFUL ] org.eclipse.jetty#jetty-start;8.1.8.v20121106!jetty-start.jar (1310ms)
+[ivy:retrieve] downloading http://repo1.maven.org/maven2/org/eclipse/jetty/orbit/javax.servlet/3.0.0.v201112011016/javax.servlet-3.0.0.v201112011016.jar ...
+[ivy:retrieve] ............................................................................................................................................ (195kB)
+[ivy:retrieve] .. (0kB)
+[ivy:retrieve] 	[SUCCESSFUL ] org.eclipse.jetty.orbit#javax.servlet;3.0.0.v201112011016!javax.servlet.jar(orbit) (923ms)
+     [echo] Building solr-example-DIH...
+
+ivy-availability-check:
+     [echo] Building solr-example-DIH...
+
+ivy-fail:
+
+ivy-configure:
+[ivy:configure] :: loading settings :: file = /Users/kai.xu/githome/github/lucene-solr/lucene/ivy-settings.xml
+
+resolve:
+[ivy:retrieve] downloading http://repo1.maven.org/maven2/hsqldb/hsqldb/1.8.0.10/hsqldb-1.8.0.10.jar ...
+[ivy:retrieve] .........................................................................................................................................................................................................................................
+[ivy:retrieve] ........................................................................ (690kB)
+[ivy:retrieve] .. (0kB)
+[ivy:retrieve] 	[SUCCESSFUL ] hsqldb#hsqldb;1.8.0.10!hsqldb.jar (2925ms)
+[ivy:retrieve] downloading http://repo1.maven.org/maven2/org/apache/derby/derby/10.9.1.0/derby-10.9.1.0.jar ...
+[ivy:retrieve] ...................................................................................................................................................................................................................................................................................
+[ivy:retrieve] ............................................................................................................................................................................................................................................................................................................................................
+[ivy:retrieve] ................................................................................
+[ivy:retrieve] ................................................................................................................................................................................................................................................................................................................................................................
+[ivy:retrieve] .........................................................................................................................................................................................................................................................................................
+[ivy:retrieve] ...........................................................................................................................................................................................
+[ivy:retrieve] ........................................................................................................................................... (2640kB)
+[ivy:retrieve] .. (0kB)
+[ivy:retrieve] 	[SUCCESSFUL ] org.apache.derby#derby;10.9.1.0!derby.jar (10696ms)
+
+resolve:
+     [echo] Building solr-core...
+
+ivy-availability-check:
+     [echo] Building solr-core...
+
+ivy-fail:
+
+ivy-configure:
+[ivy:configure] :: loading settings :: file = /Users/kai.xu/githome/github/lucene-solr/lucene/ivy-settings.xml
+
+resolve:
+[ivy:retrieve] downloading http://repo1.maven.org/maven2/commons-fileupload/commons-fileupload/1.2.1/commons-fileupload-1.2.1.jar ...
+[ivy:retrieve] .......................................... (56kB)
+[ivy:retrieve] .. (0kB)
+[ivy:retrieve] 	[SUCCESSFUL ] commons-fileupload#commons-fileupload;1.2.1!commons-fileupload.jar (766ms)
+[ivy:retrieve] downloading http://repo1.maven.org/maven2/commons-cli/commons-cli/1.2/commons-cli-1.2.jar ...
+[ivy:retrieve] ....................... (40kB)
+[ivy:retrieve] .. (0kB)
+[ivy:retrieve] 	[SUCCESSFUL ] commons-cli#commons-cli;1.2!commons-cli.jar (625ms)
+[ivy:retrieve] downloading http://repo1.maven.org/maven2/commons-lang/commons-lang/2.6/commons-lang-2.6.jar ...
+[ivy:retrieve] .................................................................................................................................................................................................... (277kB)
+[ivy:retrieve] .. (0kB)
+[ivy:retrieve] 	[SUCCESSFUL ] commons-lang#commons-lang;2.6!commons-lang.jar (979ms)
+[ivy:retrieve] downloading http://repo1.maven.org/maven2/com/google/guava/guava/13.0.1/guava-13.0.1.jar ...
+[ivy:retrieve] ..................................................................................................................................................................................................................................................................................................................................................
+[ivy:retrieve] ..........................................................................................................................................................................................................................................................................................................................................................................
+[ivy:retrieve] ................................................................................................................................................................
+[ivy:retrieve] ........................................................................................................................................................................................................................................................................................................................................
+[ivy:retrieve] .................................................................. (1846kB)
+[ivy:retrieve] .. (0kB)
+[ivy:retrieve] 	[SUCCESSFUL ] com.google.guava#guava;13.0.1!guava.jar (6530ms)
+[ivy:retrieve] downloading http://repo1.maven.org/maven2/org/easymock/easymock/3.0/easymock-3.0.jar ...
+[ivy:retrieve] ................................................................................. (111kB)
+[ivy:retrieve] .. (0kB)
+[ivy:retrieve] 	[SUCCESSFUL ] org.easymock#easymock;3.0!easymock.jar (473ms)
+[ivy:retrieve] downloading http://repo1.maven.org/maven2/cglib/cglib-nodep/2.2/cglib-nodep-2.2.jar ...
+[ivy:retrieve] ............................................................................................................................................................................................................................... (314kB)
+[ivy:retrieve] .. (0kB)
+[ivy:retrieve] 	[SUCCESSFUL ] cglib#cglib-nodep;2.2!cglib-nodep.jar (1082ms)
+[ivy:retrieve] downloading http://repo1.maven.org/maven2/org/objenesis/objenesis/1.2/objenesis-1.2.jar ...
+[ivy:retrieve] ........................... (35kB)
+[ivy:retrieve] .. (0kB)
+[ivy:retrieve] 	[SUCCESSFUL ] org.objenesis#objenesis;1.2!objenesis.jar (263ms)
+[ivy:retrieve] downloading http://repo1.maven.org/maven2/javax/servlet/javax.servlet-api/3.0.1/javax.servlet-api-3.0.1.jar ...
+[ivy:retrieve] ............................................................. (83kB)
+[ivy:retrieve] .. (0kB)
+[ivy:retrieve] 	[SUCCESSFUL ] javax.servlet#javax.servlet-api;3.0.1!javax.servlet-api.jar (443ms)
+     [echo] Building solr-solrj...
+
+ivy-availability-check:
+     [echo] Building solr-solrj...
+
+ivy-fail:
+
+ivy-configure:
+[ivy:configure] :: loading settings :: file = /Users/kai.xu/githome/github/lucene-solr/lucene/ivy-settings.xml
+
+resolve:
+[ivy:retrieve] downloading http://repo1.maven.org/maven2/org/apache/zookeeper/zookeeper/3.4.5/zookeeper-3.4.5.jar ...
+[ivy:retrieve] .........................................................................................................................................................................................................................................................................................................
+[ivy:retrieve] ................................................................................................................................................................................................................................... (761kB)
+[ivy:retrieve] .. (0kB)
+[ivy:retrieve] 	[SUCCESSFUL ] org.apache.zookeeper#zookeeper;3.4.5!zookeeper.jar (2609ms)
+[ivy:retrieve] downloading http://repo1.maven.org/maven2/org/apache/httpcomponents/httpcore/4.1.4/httpcore-4.1.4.jar ...
+[ivy:retrieve] ............................................................................................................................... (177kB)
+[ivy:retrieve] .. (0kB)
+[ivy:retrieve] 	[SUCCESSFUL ] org.apache.httpcomponents#httpcore;4.1.4!httpcore.jar (1635ms)
+[ivy:retrieve] downloading http://repo1.maven.org/maven2/org/apache/httpcomponents/httpclient/4.1.3/httpclient-4.1.3.jar ...
+[ivy:retrieve] .....................................................................................................................................................................................................................................
+[ivy:retrieve] ................ (344kB)
+[ivy:retrieve] .. (0kB)
+[ivy:retrieve] 	[SUCCESSFUL ] org.apache.httpcomponents#httpclient;4.1.3!httpclient.jar (1833ms)
+[ivy:retrieve] downloading http://repo1.maven.org/maven2/org/apache/httpcomponents/httpmime/4.1.3/httpmime-4.1.3.jar ...
+[ivy:retrieve] .................... (26kB)
+[ivy:retrieve] .. (0kB)
+[ivy:retrieve] 	[SUCCESSFUL ] org.apache.httpcomponents#httpmime;4.1.3!httpmime.jar (1767ms)
+[ivy:retrieve] downloading http://repo1.maven.org/maven2/commons-io/commons-io/2.1/commons-io-2.1.jar ...
+[ivy:retrieve] .................................................................................................... (159kB)
+[ivy:retrieve] .. (0kB)
+[ivy:retrieve] 	[SUCCESSFUL ] commons-io#commons-io;2.1!commons-io.jar (1489ms)
+[ivy:retrieve] downloading http://repo1.maven.org/maven2/org/slf4j/jcl-over-slf4j/1.6.4/jcl-over-slf4j-1.6.4.jar ...
+[ivy:retrieve] .............. (16kB)
+[ivy:retrieve] .. (0kB)
+[ivy:retrieve] 	[SUCCESSFUL ] org.slf4j#jcl-over-slf4j;1.6.4!jcl-over-slf4j.jar (375ms)
+[ivy:retrieve] downloading http://repo1.maven.org/maven2/org/codehaus/woodstox/wstx-asl/3.2.7/wstx-asl-3.2.7.jar ...
+[ivy:retrieve] ...................................................................................................................................................
+[ivy:retrieve] ..................................................................................................................................................................................... (508kB)
+[ivy:retrieve] .. (0kB)
+[ivy:retrieve] 	[SUCCESSFUL ] org.codehaus.woodstox#wstx-asl;3.2.7!wstx-asl.jar (3190ms)
+[ivy:retrieve] downloading http://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.6.4/slf4j-api-1.6.4.jar ...
+[ivy:retrieve] .................. (25kB)
+[ivy:retrieve] .. (0kB)
+[ivy:retrieve] 	[SUCCESSFUL ] org.slf4j#slf4j-api;1.6.4!slf4j-api.jar (1009ms)
+[ivy:retrieve] downloading http://repo1.maven.org/maven2/org/slf4j/slf4j-jdk14/1.6.4/slf4j-jdk14-1.6.4.jar ...
+[ivy:retrieve] ........ (8kB)
+[ivy:retrieve] .. (0kB)
+[ivy:retrieve] 	[SUCCESSFUL ] org.slf4j#slf4j-jdk14;1.6.4!slf4j-jdk14.jar (239ms)
+     [echo] Building solr-test-framework...
+
+ivy-availability-check:
+     [echo] Building solr-test-framework...
+
+ivy-fail:
+
+ivy-configure:
+[ivy:configure] :: loading settings :: file = /Users/kai.xu/githome/github/lucene-solr/lucene/ivy-settings.xml
+
+resolve:
+     [echo] Building solr-analysis-extras...
+
+ivy-availability-check:
+     [echo] Building solr-analysis-extras...
+
+ivy-fail:
+
+ivy-configure:
+[ivy:configure] :: loading settings :: file = /Users/kai.xu/githome/github/lucene-solr/lucene/ivy-settings.xml
+
+resolve:
+     [echo] Building solr-clustering...
+
+ivy-availability-check:
+     [echo] Building solr-clustering...
+
+ivy-fail:
+
+ivy-configure:
+[ivy:configure] :: loading settings :: file = /Users/kai.xu/githome/github/lucene-solr/lucene/ivy-settings.xml
+
+resolve:
+[ivy:retrieve] downloading http://repo1.maven.org/maven2/org/carrot2/carrot2-core/3.6.2/carrot2-core-3.6.2.jar ...
+[ivy:retrieve] ......................................
+[ivy:retrieve] ....................................................................................
+[ivy:retrieve] .......................................................................
+[ivy:retrieve] ......................................................
+[ivy:retrieve] .........................................................................................
+[ivy:retrieve] .................................................................................
+[ivy:retrieve] .............................................................................
+[ivy:retrieve] ........................................ (854kB)
+[ivy:retrieve] .. (0kB)
+[ivy:retrieve] 	[SUCCESSFUL ] org.carrot2#carrot2-core;3.6.2!carrot2-core.jar (12132ms)
+[ivy:retrieve] downloading http://repo1.maven.org/maven2/org/carrot2/attributes/attributes-binder/1.0.1/attributes-binder-1.0.1.jar ...
+[ivy:retrieve] ......................................................... (78kB)
+[ivy:retrieve] .. (0kB)
+[ivy:retrieve] 	[SUCCESSFUL ] org.carrot2.attributes#attributes-binder;1.0.1!attributes-binder.jar (427ms)
+[ivy:retrieve] downloading http://repo1.maven.org/maven2/com/carrotsearch/hppc/0.4.1/hppc-0.4.1.jar ...
+[ivy:retrieve] .........................................................................................................................................
+[ivy:retrieve] ................................................................................................................................................................................................................................................................................................
+[ivy:retrieve] ...........................................................................................................................................................................................................................................................
+[ivy:retrieve] .......................................
+[ivy:retrieve] ........................................................ (1198kB)
+[ivy:retrieve] .. (0kB)
+[ivy:retrieve] 	[SUCCESSFUL ] com.carrotsearch#hppc;0.4.1!hppc.jar (6936ms)
+[ivy:retrieve] downloading http://repo1.maven.org/maven2/org/codehaus/jackson/jackson-core-asl/1.7.4/jackson-core-asl-1.7.4.jar ...
+[ivy:retrieve] ..............................................................................
+[ivy:retrieve] ................................................... (202kB)
+[ivy:retrieve] .. (0kB)
+[ivy:retrieve] 	[SUCCESSFUL ] org.codehaus.jackson#jackson-core-asl;1.7.4!jackson-core-asl.jar (2313ms)
+[ivy:retrieve] downloading http://repo1.maven.org/maven2/org/codehaus/jackson/jackson-mapper-asl/1.7.4/jackson-mapper-asl-1.7.4.jar ...
+[ivy:retrieve] ............................................................
+[ivy:retrieve] ...........................................................................................................
+[ivy:retrieve] ..................................................................................................................
+[ivy:retrieve] ...................................................................................................... (615kB)
+[ivy:retrieve] .. (0kB)
+[ivy:retrieve] 	[SUCCESSFUL ] org.codehaus.jackson#jackson-mapper-asl;1.7.4!jackson-mapper-asl.jar (6504ms)
+[ivy:retrieve] downloading http://repo1.maven.org/maven2/org/apache/mahout/mahout-collections/1.0/mahout-collections-1.0.jar ...
+[ivy:retrieve] .................................................................................................................................
+[ivy:retrieve] ....................................................................................................
+[ivy:retrieve] .............................................................................................................................................................................................
+[ivy:retrieve] .........................................................................................................................................................................................
+[ivy:retrieve] .................................................................................... (1067kB)
+[ivy:retrieve] .. (0kB)
+[ivy:retrieve] 	[SUCCESSFUL ] org.apache.mahout#mahout-collections;1.0!mahout-collections.jar (7926ms)
+[ivy:retrieve] downloading http://repo1.maven.org/maven2/org/apache/mahout/mahout-math/0.6/mahout-math-0.6.jar ...
+[ivy:retrieve] ..................................................................................................................................
+[ivy:retrieve] .......................................................... (282kB)
+[ivy:retrieve] .. (0kB)
+[ivy:retrieve] 	[SUCCESSFUL ] org.apache.mahout#mahout-math;0.6!mahout-math.jar (2550ms)
+[ivy:retrieve] downloading http://repo1.maven.org/maven2/org/simpleframework/simple-xml/2.6.4/simple-xml-2.6.4.jar ...
+[ivy:retrieve] ....................................................................................................
+[ivy:retrieve] ........................................................................................................................................... (377kB)
+[ivy:retrieve] .. (0kB)
+[ivy:retrieve] 	[SUCCESSFUL ] org.simpleframework#simple-xml;2.6.4!simple-xml.jar (3344ms)
+     [echo] Building solr-dataimporthandler-extras...
+
+ivy-availability-check:
+     [echo] Building solr-dataimporthandler-extras...
+
+ivy-fail:
+
+ivy-configure:
+[ivy:configure] :: loading settings :: file = /Users/kai.xu/githome/github/lucene-solr/lucene/ivy-settings.xml
+
+resolve:
+     [echo] Building solr-dataimporthandler...
+
+ivy-availability-check:
+     [echo] Building solr-dataimporthandler...
+
+ivy-fail:
+
+ivy-configure:
+[ivy:configure] :: loading settings :: file = /Users/kai.xu/githome/github/lucene-solr/lucene/ivy-settings.xml
+
+resolve:
+[ivy:retrieve] downloading http://repo1.maven.org/maven2/javax/activation/activation/1.1/activation-1.1.jar ...
+[ivy:retrieve] ........................................... (61kB)
+[ivy:retrieve] .. (0kB)
+[ivy:retrieve] 	[SUCCESSFUL ] javax.activation#activation;1.1!activation.jar (466ms)
+[ivy:retrieve] downloading http://repo1.maven.org/maven2/javax/mail/mail/1.4.1/mail-1.4.1.jar ...
+[ivy:retrieve] ................................................................................................................
+[ivy:retrieve] ........................................................................................................................................................................................... (437kB)
+[ivy:retrieve] .. (0kB)
+[ivy:retrieve] 	[SUCCESSFUL ] javax.mail#mail;1.4.1!mail.jar (2683ms)
+     [echo] Building solr-cell...
+
+ivy-availability-check:
+     [echo] Building solr-cell...
+
+ivy-fail:
+
+ivy-configure:
+[ivy:configure] :: loading settings :: file = /Users/kai.xu/githome/github/lucene-solr/lucene/ivy-settings.xml
+
+resolve:
+[ivy:retrieve] downloading http://repo1.maven.org/maven2/org/apache/tika/tika-core/1.2/tika-core-1.2.jar ...
+[ivy:retrieve] ................................................................
+[ivy:retrieve] ....................................................................................................................................................................................................................... (453kB)
+[ivy:retrieve] .. (0kB)
+[ivy:retrieve] 	[SUCCESSFUL ] org.apache.tika#tika-core;1.2!tika-core.jar(bundle) (2587ms)
+[ivy:retrieve] downloading http://repo1.maven.org/maven2/org/apache/tika/tika-parsers/1.2/tika-parsers-1.2.jar ...
+[ivy:retrieve] ............................................................................................................................................................................................................................................................................................................................................ (470kB)
+[ivy:retrieve] .. (0kB)
+[ivy:retrieve] 	[SUCCESSFUL ] org.apache.tika#tika-parsers;1.2!tika-parsers.jar(bundle) (1542ms)
+[ivy:retrieve] downloading http://repo1.maven.org/maven2/org/gagravarr/vorbis-java-tika/0.1/vorbis-java-tika-0.1.jar ...
+[ivy:retrieve] ............ (14kB)
+[ivy:retrieve] .. (0kB)
+[ivy:retrieve] 	[SUCCESSFUL ] org.gagravarr#vorbis-java-tika;0.1!vorbis-java-tika.jar (189ms)
+[ivy:retrieve] downloading http://repo1.maven.org/maven2/org/gagravarr/vorbis-java-core/0.1/vorbis-java-core-0.1.jar ...
+[ivy:retrieve] ................................... (46kB)
+[ivy:retrieve] .. (0kB)
+[ivy:retrieve] 	[SUCCESSFUL ] org.gagravarr#vorbis-java-core;0.1!vorbis-java-core.jar (291ms)
+[ivy:retrieve] downloading http://repo1.maven.org/maven2/edu/ucar/netcdf/4.2-min/netcdf-4.2-min.jar ...
+[ivy:retrieve] ........................................................................................................................................................................................................................................................................
+[ivy:retrieve] ..........................................................................................................................
+[ivy:retrieve] ..............................................................................................................................................................................................................................................................................................................
+[ivy:retrieve] ...............................................................................................................................................................................................................................................................................................................................
+[ivy:retrieve] .....................................................................................
+[ivy:retrieve] .........................................................................................................................................................................................................................
+[ivy:retrieve] ........................................................................................................................................................................................................................................................................................................................
+[ivy:retrieve] ..........................................................................................................................................................................................................................................
+[ivy:retrieve] ........................................................................................................
+[ivy:retrieve] ................................................................................................................................................................................................................................................................................................................................
+[ivy:retrieve] ......................................................................................................................................................................................................................................................................................................................................
+[ivy:retrieve] .........................................................................
+[ivy:retrieve] ........................................ (4225kB)
+[ivy:retrieve] .. (0kB)
+[ivy:retrieve] 	[SUCCESSFUL ] edu.ucar#netcdf;4.2-min!netcdf.jar (19485ms)
+[ivy:retrieve] downloading http://repo1.maven.org/maven2/org/apache/james/apache-mime4j-core/0.7.2/apache-mime4j-core-0.7.2.jar ...
+[ivy:retrieve] .................................................................... (93kB)
+[ivy:retrieve] .. (0kB)
+[ivy:retrieve] 	[SUCCESSFUL ] org.apache.james#apache-mime4j-core;0.7.2!apache-mime4j-core.jar (422ms)
+[ivy:retrieve] downloading http://repo1.maven.org/maven2/org/apache/james/apache-mime4j-dom/0.7.2/apache-mime4j-dom-0.7.2.jar ...
+[ivy:retrieve] .................................................................................................................................................................................................. (297kB)
+[ivy:retrieve] .. (0kB)
+[ivy:retrieve] 	[SUCCESSFUL ] org.apache.james#apache-mime4j-dom;0.7.2!apache-mime4j-dom.jar (1031ms)
+[ivy:retrieve] downloading http://repo1.maven.org/maven2/org/apache/pdfbox/pdfbox/1.7.0/pdfbox-1.7.0.jar ...
+[ivy:retrieve] .........................................................................................................................................................................................................................................................................................................................................................................
+[ivy:retrieve] ............................................................................................
+[ivy:retrieve] ....................................................................................................................................................................................................
+[ivy:retrieve] ....................................................................................................................................................................................................................................................................................................................................................
+[ivy:retrieve] ..................................................................................................................................................................................................................................................
+[ivy:retrieve] .......................................................................................
+[ivy:retrieve] ..................................................................................................................................................................................................................................................................................
+[ivy:retrieve] ....................................................................................................................................................................................................................................................................................................................................
+[ivy:retrieve] ..................................................................................................................................................................
+[ivy:retrieve] ..........................................................................................................................................................................
+[ivy:retrieve] ................................................................................................................................................................................................................................................................... (3816kB)
+[ivy:retrieve] .. (0kB)
+[ivy:retrieve] 	[SUCCESSFUL ] org.apache.pdfbox#pdfbox;1.7.0!pdfbox.jar(bundle) (16500ms)
+[ivy:retrieve] downloading http://repo1.maven.org/maven2/org/apache/pdfbox/fontbox/1.7.0/fontbox-1.7.0.jar ...
+[ivy:retrieve] ............................................................................................................ (181kB)
+[ivy:retrieve] .. (0kB)
+[ivy:retrieve] 	[SUCCESSFUL ] org.apache.pdfbox#fontbox;1.7.0!fontbox.jar(bundle) (683ms)
+[ivy:retrieve] downloading http://repo1.maven.org/maven2/org/apache/pdfbox/jempbox/1.7.0/jempbox-1.7.0.jar ...
+[ivy:retrieve] ..................................... (49kB)
+[ivy:retrieve] .. (0kB)
+[ivy:retrieve] 	[SUCCESSFUL ] org.apache.pdfbox#jempbox;1.7.0!jempbox.jar(bundle) (321ms)
+[ivy:retrieve] downloading http://repo1.maven.org/maven2/org/bouncycastle/bcmail-jdk15/1.45/bcmail-jdk15-1.45.jar ...
+[ivy:retrieve] .............................................................................................................................................................. (223kB)
+[ivy:retrieve] .. (0kB)
+[ivy:retrieve] 	[SUCCESSFUL ] org.bouncycastle#bcmail-jdk15;1.45!bcmail-jdk15.jar (2341ms)
+[ivy:retrieve] downloading http://repo1.maven.org/maven2/org/bouncycastle/bcprov-jdk15/1.45/bcprov-jdk15-1.45.jar ...
+[ivy:retrieve] ........................................................................................................................................................................................................................................................................................................................................................
+[ivy:retrieve] ...................................................................................................................................................................................................................................................................................................................................................................
+[ivy:retrieve] ......................................................................................................................................................................................................................................................................
+[ivy:retrieve] ............................................ (1624kB)
+[ivy:retrieve] .. (0kB)
+[ivy:retrieve] 	[SUCCESSFUL ] org.bouncycastle#bcprov-jdk15;1.45!bcprov-jdk15.jar (5709ms)
+[ivy:retrieve] downloading http://repo1.maven.org/maven2/org/apache/poi/poi/3.8/poi-3.8.jar ...
+[ivy:retrieve] .......................................................................................................................................................................................................
+[ivy:retrieve] ................................................................................................................................................................................................................................................................................................................
+[ivy:retrieve] ..........................................................................................................................................................................................
+[ivy:retrieve] .............................................................................................................
+[ivy:retrieve] .......................................................................................................................................................................................................................................................................................................................................... (1777kB)
+[ivy:retrieve] .. (0kB)
+[ivy:retrieve] 	[SUCCESSFUL ] org.apache.poi#poi;3.8!poi.jar (7892ms)
+[ivy:retrieve] downloading http://repo1.maven.org/maven2/org/apache/poi/poi-scratchpad/3.8/poi-scratchpad-3.8.jar ...
+[ivy:retrieve] .......................................................................................................................................................................................................................................................................................................
+[ivy:retrieve] ..................................................................................................................................................
+[ivy:retrieve] ....................................................................................................................................................................................................................................................
+[ivy:retrieve] .......................................................... (1159kB)
+[ivy:retrieve] .. (0kB)
+[ivy:retrieve] 	[SUCCESSFUL ] org.apache.poi#poi-scratchpad;3.8!poi-scratchpad.jar (5195ms)
+[ivy:retrieve] downloading http://repo1.maven.org/maven2/org/apache/poi/poi-ooxml/3.8/poi-ooxml-3.8.jar ...
+[ivy:retrieve] .................................................................................................................................................................................................................................................................
+[ivy:retrieve] ........................................................................................................................................................................................................................................
+[ivy:retrieve] ................................................................................... (911kB)
+[ivy:retrieve] .. (0kB)
+[ivy:retrieve] 	[SUCCESSFUL ] org.apache.poi#poi-ooxml;3.8!poi-ooxml.jar (3978ms)
+[ivy:retrieve] downloading http://repo1.maven.org/maven2/org/apache/poi/poi-ooxml-schemas/3.8/poi-ooxml-schemas-3.8.jar ...
+[ivy:retrieve] ....................................................................................................................................................................................................................................................
+[ivy:retrieve] ..............................................................................................................................................................................................................................................................................................
+[ivy:retrieve] .........................................................................................................................................................................
+[ivy:retrieve] .....................................................................................................................................................................
+[ivy:retrieve] ............................................................................................................................................................................................................................................................................................................
+[ivy:retrieve] ....................................................................................................................................
+[ivy:retrieve] ........................................................................................................................................................................................................
+[ivy:retrieve] ...............................................................................................................................................................................................................................................................................................................................................................
+[ivy:retrieve] .....................................................................................................................................................................
+[ivy:retrieve] ...........................................................................................................
+[ivy:retrieve] ......................................................................................................................................................................................................................................................................................................................................................................
+[ivy:retrieve] ....................................................................................................................................................................................................................................................................................................................................
+[ivy:retrieve] .......................................................................................
+[ivy:retrieve] ... (4596kB)
+[ivy:retrieve] .. (0kB)
+[ivy:retrieve] 	[SUCCESSFUL ] org.apache.poi#poi-ooxml-schemas;3.8!poi-ooxml-schemas.jar (20557ms)
+[ivy:retrieve] downloading http://repo1.maven.org/maven2/org/apache/xmlbeans/xmlbeans/2.3.0/xmlbeans-2.3.0.jar ...
+[ivy:retrieve] .......................................................................................................................................................................................................................................................................................................................................................................
+[ivy:retrieve] ..................................................................................................................................................................................................................................................................................................................................................
+[ivy:retrieve] .................................................................................................................................................................................................................................................................................................
+[ivy:retrieve] ...........................................................................................
+[ivy:retrieve] ........................................................................................................................................................................................................................................
+[ivy:retrieve] ................................................................................................................................................................................................................................
+[ivy:retrieve] ...........................................................................................................
+[ivy:retrieve] .................................................. (2604kB)
+[ivy:retrieve] .. (0kB)
+[ivy:retrieve] 	[SUCCESSFUL ] org.apache.xmlbeans#xmlbeans;2.3.0!xmlbeans.jar (11284ms)
+[ivy:retrieve] downloading http://repo1.maven.org/maven2/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar ...
+[ivy:retrieve] .......................................................................................................................................................................................................................... (306kB)
+[ivy:retrieve] .. (0kB)
+[ivy:retrieve] 	[SUCCESSFUL ] dom4j#dom4j;1.6.1!dom4j.jar (1057ms)
+[ivy:retrieve] downloading http://repo1.maven.org/maven2/org/ccil/cowan/tagsoup/tagsoup/1.2.1/tagsoup-1.2.1.jar ...
+[ivy:retrieve] ............................................ (88kB)
+[ivy:retrieve] .. (0kB)
+[ivy:retrieve] 	[SUCCESSFUL ] org.ccil.cowan.tagsoup#tagsoup;1.2.1!tagsoup.jar (439ms)
+[ivy:retrieve] downloading http://repo1.maven.org/maven2/com/googlecode/mp4parser/isoparser/1.0-RC-1/isoparser-1.0-RC-1.jar ...
+[ivy:retrieve] .....................................................................................................................................................................................................................................................
+[ivy:retrieve] ........................................................................................... (509kB)
+[ivy:retrieve] .. (0kB)
+[ivy:retrieve] 	[SUCCESSFUL ] com.googlecode.mp4parser#isoparser;1.0-RC-1!isoparser.jar (3104ms)
+[ivy:retrieve] downloading http://repo1.maven.org/maven2/com/drewnoakes/metadata-extractor/2.4.0-beta-1/metadata-extractor-2.4.0-beta-1.jar ...
+[ivy:retrieve] ................................................................ (88kB)
+[ivy:retrieve] .. (0kB)
+[ivy:retrieve] 	[SUCCESSFUL ] com.drewnoakes#metadata-extractor;2.4.0-beta-1!metadata-extractor.jar (411ms)
+[ivy:retrieve] downloading http://repo1.maven.org/maven2/de/l3s/boilerpipe/boilerpipe/1.1.0/boilerpipe-1.1.0.jar ...
+[ivy:retrieve] ................................................................. (89kB)
+[ivy:retrieve] .. (0kB)
+[ivy:retrieve] 	[SUCCESSFUL ] de.l3s.boilerpipe#boilerpipe;1.1.0!boilerpipe.jar (419ms)
+[ivy:retrieve] downloading http://repo1.maven.org/maven2/rome/rome/0.9/rome-0.9.jar ...
+[ivy:retrieve] ................................................................................................................................................. (203kB)
+[ivy:retrieve] .. (0kB)
+[ivy:retrieve] 	[SUCCESSFUL ] rome#rome;0.9!rome.jar (749ms)
+[ivy:retrieve] downloading http://repo1.maven.org/maven2/jdom/jdom/1.0/jdom-1.0.jar ...
+[ivy:retrieve] ........................................................................................................ (149kB)
+[ivy:retrieve] .. (0kB)
+[ivy:retrieve] 	[SUCCESSFUL ] jdom#jdom;1.0!jdom.jar (609ms)
+[ivy:retrieve] downloading http://repo1.maven.org/maven2/com/googlecode/juniversalchardet/juniversalchardet/1.0.3/juniversalchardet-1.0.3.jar ...
+[ivy:retrieve] ............................................................................................................................................ (215kB)
+[ivy:retrieve] .. (0kB)
+[ivy:retrieve] 	[SUCCESSFUL ] com.googlecode.juniversalchardet#juniversalchardet;1.0.3!juniversalchardet.jar (785ms)
+[ivy:retrieve] downloading http://repo1.maven.org/maven2/org/tukaani/xz/1.0/xz-1.0.jar ...
+[ivy:retrieve] ................................................................. (92kB)
+[ivy:retrieve] .. (0kB)
+[ivy:retrieve] 	[SUCCESSFUL ] org.tukaani#xz;1.0!xz.jar (1229ms)
+     [echo] Building solr-langid...
+
+ivy-availability-check:
+     [echo] Building solr-langid...
+
+ivy-fail:
+
+ivy-configure:
+[ivy:configure] :: loading settings :: file = /Users/kai.xu/githome/github/lucene-solr/lucene/ivy-settings.xml
+
+resolve:
+[ivy:retrieve] downloading http://repo1.maven.org/maven2/com/cybozu/labs/langdetect/1.1-20120112/langdetect-1.1-20120112.jar ...
+[ivy:retrieve] ................................................................................................................................................................................................................................................................................
+[ivy:retrieve] ................................................................................................................................................................................................................................................................................................................................................
+[ivy:retrieve] ................................................................................................................................................................................................
+[ivy:retrieve] ...... (1207kB)
+[ivy:retrieve] .. (0kB)
+[ivy:retrieve] 	[SUCCESSFUL ] com.cybozu.labs#langdetect;1.1-20120112!langdetect.jar (5279ms)
+[ivy:retrieve] downloading http://repo1.maven.org/maven2/net/arnx/jsonic/1.2.7/jsonic-1.2.7.jar ...
+[ivy:retrieve] ........................................................................................................ (144kB)
+[ivy:retrieve] .. (0kB)
+[ivy:retrieve] 	[SUCCESSFUL ] net.arnx#jsonic;1.2.7!jsonic.jar (801ms)
+     [echo] Building solr-uima...
+
+ivy-availability-check:
+     [echo] Building solr-uima...
+
+ivy-fail:
+
+ivy-configure:
+[ivy:configure] :: loading settings :: file = /Users/kai.xu/githome/github/lucene-solr/lucene/ivy-settings.xml
+
+resolve:
+[ivy:retrieve] downloading http://repo1.maven.org/maven2/commons-digester/commons-digester/2.0/commons-digester-2.0.jar ...
+[ivy:retrieve] ............................................................................................ (145kB)
+[ivy:retrieve] .. (0kB)
+[ivy:retrieve] 	[SUCCESSFUL ] commons-digester#commons-digester;2.0!commons-digester.jar (580ms)
+[ivy:retrieve] downloading http://repo1.maven.org/maven2/org/apache/uima/AlchemyAPIAnnotator/2.3.1/AlchemyAPIAnnotator-2.3.1.jar ...
+[ivy:retrieve] ............................................................................................................................................................. (223kB)
+[ivy:retrieve] .. (0kB)
+[ivy:retrieve] 	[SUCCESSFUL ] org.apache.uima#AlchemyAPIAnnotator;2.3.1!AlchemyAPIAnnotator.jar (842ms)
+[ivy:retrieve] downloading http://repo1.maven.org/maven2/org/apache/uima/OpenCalaisAnnotator/2.3.1/OpenCalaisAnnotator-2.3.1.jar ...
+[ivy:retrieve] ................................................. (70kB)
+[ivy:retrieve] .. (0kB)
+[ivy:retrieve] 	[SUCCESSFUL ] org.apache.uima#OpenCalaisAnnotator;2.3.1!OpenCalaisAnnotator.jar (924ms)
+     [echo] Building solr-velocity...
+
+ivy-availability-check:
+     [echo] Building solr-velocity...
+
+ivy-fail:
+
+ivy-configure:
+[ivy:configure] :: loading settings :: file = /Users/kai.xu/githome/github/lucene-solr/lucene/ivy-settings.xml
+
+resolve:
+[ivy:retrieve] downloading http://repo1.maven.org/maven2/commons-beanutils/commons-beanutils/1.7.0/commons-beanutils-1.7.0.jar ...
+[ivy:retrieve] ............................................................................................................................... (184kB)
+[ivy:retrieve] .. (0kB)
+[ivy:retrieve] 	[SUCCESSFUL ] commons-beanutils#commons-beanutils;1.7.0!commons-beanutils.jar (1238ms)
+[ivy:retrieve] downloading http://repo1.maven.org/maven2/commons-collections/commons-collections/3.2.1/commons-collections-3.2.1.jar ...
+[ivy:retrieve] ............................................................................................................................................................................................................................................................................................................................
+[ivy:retrieve] ............................................................................... (561kB)
+[ivy:retrieve] .. (0kB)
+[ivy:retrieve] 	[SUCCESSFUL ] commons-collections#commons-collections;3.2.1!commons-collections.jar (3065ms)
+[ivy:retrieve] downloading http://repo1.maven.org/maven2/org/apache/velocity/velocity/1.7/velocity-1.7.jar ...
+[ivy:retrieve] ................................................................................................................................................................................................................................................................................................. (438kB)
+[ivy:retrieve] .. (0kB)
+[ivy:retrieve] 	[SUCCESSFUL ] org.apache.velocity#velocity;1.7!velocity.jar (1490ms)
+[ivy:retrieve] downloading http://repo1.maven.org/maven2/org/apache/velocity/velocity-tools/2.0/velocity-tools-2.0.jar ...
+[ivy:retrieve] ........................................................................................................................................................................................................................................... (338kB)
+[ivy:retrieve] .. (0kB)
+[ivy:retrieve] 	[SUCCESSFUL ] org.apache.velocity#velocity-tools;2.0!velocity-tools.jar (1150ms)
+
+eclipse:
+     [copy] Copying 1 file to /Users/kai.xu/githome/github/lucene-solr
+    [mkdir] Created dir: /Users/kai.xu/githome/github/lucene-solr/.settings
+     [copy] Copying 3 files to /Users/kai.xu/githome/github/lucene-solr/.settings
+     [xslt] Processing /Users/kai.xu/githome/github/lucene-solr/build.xml to /Users/kai.xu/githome/github/lucene-solr/.classpath
+     [xslt] Loading stylesheet /Users/kai.xu/githome/github/lucene-solr/dev-tools/eclipse/dot.classpath.xsl
+     [echo] 
+     [echo]       SUCCESS: You must right-click your project and choose Refresh.
+     [echo]                Your project must use a Java 6 JRE.
+     [echo]     
+
+BUILD SUCCESSFUL
+Total time: 5 minutes 18 seconds
+msjcc02kv0ajfgfj:~/githome/github/lucene-solr $ 
+
